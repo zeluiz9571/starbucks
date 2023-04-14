@@ -19,3 +19,8 @@ header{
 .logo{
     width: 50%;
 }
+
+.menu{
+    width: 50%;
+    text-align: right;
+}
